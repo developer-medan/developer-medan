@@ -18,7 +18,7 @@ A passionate **Mobile App Architect** based in **Medan, Indonesia** with over **
 ```
 🏗️  Currently    → Architecting Binadigital (Digital Banking) at Bank INA  
 💡  Specialties  → Clean Architecture · BLoC · TDD · Microservices  
-📱  Platforms    → Flutter (iOS & Android & Web) · Native Android (Java/Kotlin)  
+📱  Platforms    → Flutter (iOS & Android) · Native Android (Java/Kotlin)  · Native iOS (Swift)
 🔧  Backend      → PHP · Microservices · RESTful APIs  
 ```
 
@@ -103,7 +103,7 @@ A passionate **Mobile App Architect** based in **Medan, Indonesia** with over **
 
 ## 📫 Let's Connect
 
-* **Website:** [aliagushutapea.com](https://portofolio-delta-jade.vercel.app/)
+* **Website:** [aliagushutapea.com](https://portofolio-vert-alpha.vercel.app/)
 * **LinkedIn:** [linkedin.com/in/aliagushutapea](https://linkedin.com/in/aliagushutapea)
 
 <br />
