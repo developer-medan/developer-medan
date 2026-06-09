@@ -104,7 +104,7 @@ A passionate **Mobile App Architect** based in **Medan, Indonesia** with over **
 ## 📫 Let's Connect
 
 * **Website:** [aliagushutapea.com](https://portofolio-vert-alpha.vercel.app/)
-* **LinkedIn:** [linkedin.com/in/aliagushutapea](https://linkedin.com/in/aliagushutapea)
+* **LinkedIn:** [linkedin.com/in/aliagushutapea](https://www.linkedin.com/in/ali-agus/)
 
 <br />
 
